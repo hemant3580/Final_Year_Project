@@ -1,4 +1,4 @@
-# Reliable-Energy-Consumption-Analysis
+# AI FOR ENERGY EFFICIENCY
 ## Contents
 1. This project aims to predict the world active power
 3. UI is built using Python flask 
