@@ -22,7 +22,7 @@ The remaining watt-hours can be calculated from the active energy by first conve
 7. sub_metering_2 : Energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 8. sub_metering_3 : Energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-#### Active and reactive energy refer to the technical details of alternative current.
+#### Active and reactive energy.
 
 In general terms, the active energy is the real power consumed by the household, whereas the reactive energy is the unused power in the lines.
 We can see that the dataset provides the active power as well as some division of the active power by main circuit in the house, specifically the kitchen, laundry, and climate control. These are not all the circuits in the household.
