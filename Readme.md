@@ -26,4 +26,5 @@ The remaining watt-hours can be calculated from the active energy by first conve
 
 In general terms, the active energy is the real power consumed by the household, whereas the reactive energy is the unused power in the lines.
 We can see that the dataset provides the active power as well as some division of the active power by main circuit in the house, specifically the kitchen, laundry, and climate control. These are not all the circuits in the household.
-
+#Proposed System
+![Image2](https://github.com/hemant3580/Final_Year_Project/blob/main/image.png)
